@@ -1,1 +1,4 @@
-This is my 3rd file from the course
+When would you want to use a remote repository rather than keeping all your work local?
+
+- When working from different computers
+- When multiple developers work on the same file
